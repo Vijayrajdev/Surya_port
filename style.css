@@ -46,6 +46,14 @@ footer {
   box-shadow: rgba(0, 0, 0, 0.3) 0px 2px 10px;
 }
 
+.profile {
+  width: 300px;
+}
+
+.heading_nav {
+  font-size: 18px;
+}
+
 .brand_logo {
   width: 80px;
   cursor: pointer;
@@ -141,6 +149,14 @@ ion-icon:hover {
 
   .about_head {
     width: 25%;
+  }
+
+  .profile {
+    width: 400px;
+  }
+
+  .heading_nav {
+    font-size: 24px;
   }
 
   footer {
